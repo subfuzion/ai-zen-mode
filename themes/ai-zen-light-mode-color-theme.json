@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "AI Zen",
-    "type": "dark",
+    "name": "AI Zen Light",
+    "type": "light",
     "colors": {
         "editor.background": "#F0F0F0",
         "editor.foreground": "#757575",

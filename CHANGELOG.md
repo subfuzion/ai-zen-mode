@@ -1,5 +1,9 @@
 # Change Log
 
-## [0.0.1]
+## [1.0.1]
 
--   Initial release
+- Fix light theme type
+
+## [1.0.0]
+
+- Initial release
