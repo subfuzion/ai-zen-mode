@@ -1,0 +1,27 @@
+{
+    "name": "ai-zen-mode",
+    "displayName": "ai-zen-mode",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.81.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": "https://github.com/subfuzion/ai-zen-mode",
+    "contributes": {
+        "themes": [
+            {
+                "label": "AI Zen - Dark Mode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ai-zen-dark-mode-color-theme.json"
+            },
+            {
+                "label": "AI Zen - Light Mode",
+                "uiTheme": "vs",
+                "path": "./themes/ai-zen-light-mode-color-theme.json"
+            }
+        ]
+    }
+}

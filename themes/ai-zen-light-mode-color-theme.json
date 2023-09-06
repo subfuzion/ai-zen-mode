@@ -1,0 +1,51 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "AI Zen",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#F0F0F0",
+        "editor.foreground": "#757575",
+        "editor.hoverHighlightBackground": "#C0C0C0",
+        "editor.lineHighlightBackground": "#E0E0E0",
+        "editor.selectionBackground": "#B9B9B9",
+        "editor.selectionHighlightBackground": "#777777",
+        "editor.selectionHighlightBorder": "#777777",
+        "editorCursor.foreground": "#202020",
+        "editorIndentGuide.background1": "#BFBFBF",
+        "editorWhitespace.foreground": "#4F4F4F",
+        "terminalCursor.background": "#BBBBBB"
+    },
+    "tokenColors": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#000000",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "token.info-token",
+            "settings": {
+                "foreground": "#6796E6"
+            }
+        },
+        {
+            "scope": "token.warn-token",
+            "settings": {
+                "foreground": "#CD9731"
+            }
+        },
+        {
+            "scope": "token.error-token",
+            "settings": {
+                "foreground": "#F44747"
+            }
+        },
+        {
+            "scope": "token.debug-token",
+            "settings": {
+                "foreground": "#B267E6"
+            }
+        }
+    ]
+}
