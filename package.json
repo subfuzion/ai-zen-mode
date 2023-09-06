@@ -2,7 +2,7 @@
     "name": "ai-zen-mode",
     "displayName": "ai-zen-mode",
     "description": "",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.81.0"
     },
@@ -14,12 +14,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "AI Zen",
+                "label": "AI Zen Light",
                 "uiTheme": "vs",
                 "path": "./themes/ai-zen-light-mode-color-theme.json"
             },
             {
-                "label": "AI Zen",
+                "label": "AI Zen Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ai-zen-dark-mode-color-theme.json"
             }
